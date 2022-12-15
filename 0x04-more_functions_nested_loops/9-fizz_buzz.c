@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+
 /**
  * main - prints the numbers from 1 to 100, but for multiples of three and five
  * Return: Always 0 (success)
